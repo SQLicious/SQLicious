@@ -41,12 +41,10 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 #### Google Data Analytics Capstone Project (B2C Bicycle-share)
 
-- [Repository Link](insert_link_here)
 - Tools Used: Tableau Public,R, Canva
 
 - Analyzed bike-sharing data for usage patterns
 - Increased conversion rate by 25% through targeted marketing strategies using Tableau and R.
-
 
 
 ## 💬 Ask me about ...
