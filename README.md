@@ -27,7 +27,6 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 #### [User Retention Analysis for Dognition (B2C SaaS)](https://public.tableau.com/shared/WZ8CXMQDM?:display_count=n&:origin=viz_share_link)
 
-- [Repository Link](insert_link_here)
 - Tools Used: Tableau
 
 - Designed strategy for 10% increase in test completion rate
@@ -43,9 +42,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 #### Google Data Analytics Capstone Project (B2C Bicycle-share)
 
 - [Repository Link](insert_link_here)
-- Tools Used:
-  - Tableau
-  - R
+- Tools Used: Tableau Public,R, Canva
 
 - Analyzed bike-sharing data for usage patterns
 - Increased conversion rate by 25% through targeted marketing strategies using Tableau and R.
