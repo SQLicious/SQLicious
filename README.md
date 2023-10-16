@@ -20,13 +20,12 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 #### [Cohort Analysis and Business Insights(E-Commerce)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/tree/main)
 
-- [Repository Link]
 - Tools Used:Alteryx
 
 - Implemented three-phase data analysis workflow in Alteryx
 - Improved project efficiency by 30% and reduced development time by 25%
 
-#### User Retention Analysis for Dognition (B2C SaaS)
+#### [User Retention Analysis for Dognition (B2C SaaS)](https://public.tableau.com/shared/WZ8CXMQDM?:display_count=n&:origin=viz_share_link)
 
 - [Repository Link](insert_link_here)
 - Tools Used:
