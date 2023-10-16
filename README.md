@@ -15,8 +15,8 @@ I'm Roopmathi, a software engineer with over 5 years of experience in developing
 
 ## 💬 Ask me about ...
 
-- Anything related to SQL,Tableau,Alteryx,Excel, especially SQL Challenges and how to showcase them
-- My hobbies and interests, such as music, photography, travel, etc.
+- Anything related to SQL, Tableau, Alteryx, Excel, especially SQL Challenges and how to showcase them
+- My hobbies and interests, such as content creation , Toastmasters club for Public speaking
 
 ## 📫 How to reach me ...
 
