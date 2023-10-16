@@ -40,14 +40,10 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 ## 🛠 My tech stack ...
 
-!JavaScript
-!React
-!Nodejs
-!MongoDB
-!Python
-!Django
-!HTML5
-!CSS3
-!Bootstrap
-!Git
+Alteryx
+SQL
+SnowFlake
+Tableau
+PowerBI
+Excel
 !GitHub
