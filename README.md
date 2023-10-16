@@ -4,13 +4,14 @@ I'm Roopmathi, a software engineer with over 5 years of experience in developing
 
 ## 🔭 I’m currently working on ...
 
-- A social media app that connects people based on their interests and hobbies.
-- A personal project that uses machine learning to analyze and generate music.
+- A data mining project that analyzes the Google Apps Store dataset to find the relationship between app downloads and rating and other attributes using PowerBI.
+- A Buisness Inteliigence project that leverages PowerBI Desktop and various inbuilt ML algorithms to forecast the customer lifetime value for an Auto Insurance Company.
+- A project that uses Power BI to create a dashboard for sales management and analysis using Amazon E-commerce Sales dataset.
 
 ## 🌱 I’m currently learning ...
 
 - Advanced DAX in Power BI
-- Microsoft Azure Data Factory
+- ETL/ELT using Microsoft Azure Data Factory
 
 ## 💬 Ask me about ...
 
