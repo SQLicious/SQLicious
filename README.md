@@ -60,10 +60,12 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 ## 🛠 My tech stack ...
 
-Alteryx
-SQL
-SnowFlake
-Tableau
-PowerBI
-Excel
-!GitHub
+## <i class="fab fa-alteryx"></i> My tech stack ...
+
+- <i class="fas fa-database"></i> SQL
+- <i class="fab fa-snowflake"></i> SnowFlake
+- <i class="fas fa-chart-bar"></i> Tableau
+- <i class="fas fa-chart-line"></i> PowerBI
+- <i class="fas fa-file-excel"></i> Excel
+- <i class="fab fa-github"></i> GitHub
+
