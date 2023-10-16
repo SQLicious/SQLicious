@@ -16,24 +16,44 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 ## 📊 My GitHub Projects
 
-Highlighted Projects:
+### Highlighted Projects:
 
-Cohort Analysis and Business Insights (E-Commerce)
+#### Cohort Analysis and Business Insights (E-Commerce)
 
-Implemented three-phase data analysis workflow in Alteryx
-Improved project efficiency by 30% and reduced development time by 25%
-User Retention Analysis for Dognition (B2C SaaS)
+- [Repository Link](insert_link_here)
+- Tools Used:
+  - Alteryx
 
-Designed strategy for 10% increase in test completion rate
-Visualized critical factors in Tableau for improved user engagement
-Retail Chain Store Sales Analysis (Retail)
+- Implemented three-phase data analysis workflow in Alteryx
+- Improved project efficiency by 30% and reduced development time by 25%
 
-Extracted key sales insights for a 45-store retail chain
-Identified strategies for a 12% holiday revenue boost
-Google Data Analytics Capstone Project (B2C Bicycle-share)
+#### User Retention Analysis for Dognition (B2C SaaS)
 
-Analyzed bike-sharing data for usage patterns
-Increased conversion rate by 25% through targeted marketing strategies using Tableau and R.
+- [Repository Link](insert_link_here)
+- Tools Used:
+  - Tableau
+
+- Designed strategy for 10% increase in test completion rate
+- Visualized critical factors in Tableau for improved user engagement
+
+#### Retail Chain Store Sales Analysis (Retail)
+
+- [Repository Link](insert_link_here)
+- Tools Used:
+  - SQL (MySQL Workbench 8.0)
+
+- Extracted key sales insights for a 45-store retail chain
+- Identified strategies for a 12% holiday revenue boost
+
+#### Google Data Analytics Capstone Project (B2C Bicycle-share)
+
+- [Repository Link](insert_link_here)
+- Tools Used:
+  - Tableau
+  - R
+
+- Analyzed bike-sharing data for usage patterns
+- Increased conversion rate by 25% through targeted marketing strategies using Tableau and R.
 
 
 
