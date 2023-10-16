@@ -39,7 +39,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 - Extracted key sales insights for a 45-store retail chain
 - Identified strategies for a 12% holiday revenue boost
 
-#### [Google Data Analytics Capstone Project (B2C Bicycle-share)] (https://public.tableau.com/shared/GH32QT7WK?:display_count=n&:origin=viz_share_link)
+#### [Google Data Analytics Capstone Project (B2C Bicycle-share)](https://public.tableau.com/shared/GH32QT7WK?:display_count=n&:origin=viz_share_link)
 
 - Tools Used: Tableau Public,R, Canva
 
@@ -56,7 +56,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 - Email: roopmathi@gmail.com
 - LinkedIn: [Roopmathi](https://www.sitepoint.com/github-profile-readme/)
-- Twitter: [@roopmathi](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
+
 
 ## 🛠 My tech stack ...
 
