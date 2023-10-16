@@ -18,11 +18,10 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 ### Highlighted Projects:
 
-#### Cohort Analysis and Business Insights (E-Commerce)
+#### [Cohort Analysis and Business Insights (E-Commerce)]([insert_link_here](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/tree/main)
 
-- [Repository Link](insert_link_here)
-- Tools Used:
-  - Alteryx
+- [Repository Link]
+- Tools Used:Alteryx
 
 - Implemented three-phase data analysis workflow in Alteryx
 - Improved project efficiency by 30% and reduced development time by 25%
