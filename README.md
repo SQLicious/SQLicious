@@ -28,17 +28,14 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 #### [User Retention Analysis for Dognition (B2C SaaS)](https://public.tableau.com/shared/WZ8CXMQDM?:display_count=n&:origin=viz_share_link)
 
 - [Repository Link](insert_link_here)
-- Tools Used:
-  - Tableau
+- Tools Used: Tableau
 
 - Designed strategy for 10% increase in test completion rate
 - Visualized critical factors in Tableau for improved user engagement
 
-#### Retail Chain Store Sales Analysis (Retail)
+#### [Retail Chain Store Sales Analysis (Retail)](https://www.canva.com/design/DAFsgZMKNQk/XApKK8r0aVpasb1RpPekBg/view)
 
-- [Repository Link](insert_link_here)
-- Tools Used:
-  - SQL (MySQL Workbench 8.0)
+- Tools Used: SQL (MySQL Workbench 8.0)
 
 - Extracted key sales insights for a 45-store retail chain
 - Identified strategies for a 12% holiday revenue boost
