@@ -44,7 +44,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 - Tools Used: Tableau Public,R, Canva
 
 - Analyzed bike-sharing data for usage patterns
-- Increased conversion rate by 25% through targeted marketing strategies using Tableau and R.
+- Increased conversion rate by 25% through targeted marketing strategies
 
 
 ## 💬 Ask me about ...
