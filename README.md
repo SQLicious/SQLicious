@@ -9,12 +9,12 @@ I'm Roopmathi, a software engineer with over 5 years of experience in developing
 
 ## 🌱 I’m currently learning ...
 
-- React Native and Flutter for cross-platform mobile development.
-- TensorFlow and PyTorch for deep learning.
+- Advanced DAX in Power BI
+- Microsoft Azure Data Factory
 
 ## 💬 Ask me about ...
 
-- Anything related to web development, especially JavaScript, React, Node.js, MongoDB, etc.
+- Anything related to SQL,Tableau,Alteryx,Excel, especially SQL Challenges and how to showcase them
 - My hobbies and interests, such as music, photography, travel, etc.
 
 ## 📫 How to reach me ...
