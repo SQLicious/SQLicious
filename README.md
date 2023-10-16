@@ -20,7 +20,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 #### [Cohort Analysis and Business Insights(E-Commerce)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/tree/main)
 
-- Tools Used:Alteryx
+- Tools Used: Alteryx
 
 - Implemented three-phase data analysis workflow in Alteryx
 - Improved project efficiency by 30% and reduced development time by 25%
@@ -55,7 +55,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 ## 📫 How to reach me ...
 
 - Email: roopmathi@gmail.com
-- LinkedIn: [Roopmathi](https://www.sitepoint.com/github-profile-readme/)
+- LinkedIn: [Roopmathi](www.linkedin.com/in/roopmathi)
 
 
 ## 🛠 My tech stack ...
