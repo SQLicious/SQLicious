@@ -14,6 +14,29 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 - Advanced DAX in Power BI on Udemy
 - ETL/ELT using Microsoft Azure Data Factory
 
+## 📊 My GitHub Projects
+
+Highlighted Projects:
+
+Cohort Analysis and Business Insights (E-Commerce)
+
+Implemented three-phase data analysis workflow in Alteryx
+Improved project efficiency by 30% and reduced development time by 25%
+User Retention Analysis for Dognition (B2C SaaS)
+
+Designed strategy for 10% increase in test completion rate
+Visualized critical factors in Tableau for improved user engagement
+Retail Chain Store Sales Analysis (Retail)
+
+Extracted key sales insights for a 45-store retail chain
+Identified strategies for a 12% holiday revenue boost
+Google Data Analytics Capstone Project (B2C Bicycle-share)
+
+Analyzed bike-sharing data for usage patterns
+Increased conversion rate by 25% through targeted marketing strategies using Tableau and R.
+
+
+
 ## 💬 Ask me about ...
 
 - Anything related to SQL, Tableau, Alteryx, Excel, especially SQL Challenges and how to showcase them
@@ -24,19 +47,6 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 - Email: roopmathi@gmail.com
 - LinkedIn: [Roopmathi](https://www.sitepoint.com/github-profile-readme/)
 - Twitter: [@roopmathi](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
-
-## ⚡ Fun fact ...
-
-- I can play three musical instruments: guitar, piano, and flute.
-- I have visited 10 countries so far and plan to visit more in the future.
-
-## 📊 My GitHub stats ...
-
-![Roopmathi's GitHub stats](https://catalins.tech/how-to-create-a-kickass-github-profile-page/)
-
-![Top Langs](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
-
-![Roopmathi's wakatime stats](https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8)
 
 ## 🛠 My tech stack ...
 
