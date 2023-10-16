@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am Ruby Gunna, a certified Google Data Analyst and a Supply Cain Specialist with 3 years of experience in multi-million-dollar procurement projects across the Energy and Petrochemical sectors I hold an MBA in consulting and strategic management from the University of British Columbia, Canada, and I have a strong background in technology as a Software Engineer at IBM and WIPRO, India  early in my career. 
-I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles in the USA or Canada.I enjoy using data to foster growth and enhance supply chain performance. But that’s not the only thing I can do, my skills are versatile and adaptable to various industries. I use SQL, Tableau, Excel, and Python to analyze and visualize data.
+I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I enjoy using data to foster growth and enhance supply chain performance. But that’s not the only thing I can do, my skills are versatile and adaptable to various industries. I use SQL, Tableau, Excel, and Python to analyze and visualize data.
 
 ## 🔭 I’m currently working on ...
 
