@@ -11,7 +11,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 ## 🌱 I’m currently learning ...
 
-- Advanced DAX in Power BI
+- Advanced DAX in Power BI on Udemy
 - ETL/ELT using Microsoft Azure Data Factory
 
 ## 💬 Ask me about ...
