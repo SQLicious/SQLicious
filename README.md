@@ -11,6 +11,7 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 
 ## 🌱 I’m currently learning ...
 
+- Nov 2023- Got into Microsoft Power Up program through which Iam learning Power Platform
 - Advanced DAX in Power BI on Udemy
 - ETL/ELT using Microsoft Azure Data Factory
 
