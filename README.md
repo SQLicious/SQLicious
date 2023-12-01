@@ -10,10 +10,10 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I
 - A project that uses Power BI to create a dashboard for sales management and analysis using Amazon E-commerce Sales dataset.
 
 ## 🌱 I’m currently learning ...
-
+- ETL/ELT using Microsoft Azure Data Factory, Azure Data Bricks
 - Nov 2023- Got into Microsoft Power Up program through which Iam learning Power Platform
 - Advanced DAX in Power BI on Udemy
-- ETL/ELT using Microsoft Azure Data Factory
+
 
 ## 📊 My GitHub Projects
 
