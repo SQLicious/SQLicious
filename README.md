@@ -62,6 +62,8 @@ I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst/ Data En
 ## 🛠 My tech stack ...
 
 - <i class="fab fa-alteryx"></i> Alteryx
+- - <i class="fab fa-alteryx"></i> Azure Data Factory
+  - - <i class="fab fa-alteryx"></i> Databricks
 - <i class="fas fa-database"></i> SQL
 - <i class="fab fa-snowflake"></i> SnowFlake
 - <i class="fas fa-chart-bar"></i> Tableau
