@@ -1,18 +1,18 @@
 # Hi there 👋
 
 I am Ruby Gunna, a certified Google Data Analyst and a Supply Chain Specialist with 3 years of experience in multi-million-dollar procurement projects across the Energy and Petrochemical sectors I hold an MBA in consulting and strategic management from the University of British Columbia, Canada, and I have a strong background in technology as a Software Engineer at IBM and WIPRO, India early in my career. 
-I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst roles. I enjoy using data to foster growth and enhance supply chain performance. But that’s not the only thing I can do, my skills are versatile and adaptable to various industries. I use SQL, Tableau, Excel, and Alteryx to prep, clean, analyze and visualize data.
+I am a Canadian citizen living in NJ,USA. I am looking for Data Analyst/ Data Engineering roles. I enjoy using data to foster growth and enhance supply chain performance. But that’s not the only thing I can do, my skills are versatile and adaptable to various industries. I use SQL, Tableau, Excel, and Alteryx to prep, clean, analyze and visualize data.
 
 ## 🔭 I’m currently working on ...
 
 - A data mining project that analyzes the Google Apps Store dataset to find the relationship between app downloads and rating and other attributes using PowerBI.
-- A Buisness Inteliigence project that leverages PowerBI Desktop and various inbuilt ML algorithms to forecast the customer lifetime value for an Auto Insurance Company.
+- A Business Inteliigence project that leverages PowerBI Desktop and various inbuilt ML algorithms to forecast the customer lifetime value for an Auto Insurance Company.
 - A project that uses Power BI to create a dashboard for sales management and analysis using Amazon E-commerce Sales dataset.
 
-## 🌱 I’m currently learning ...
-- ETL/ELT using Microsoft Azure Data Factory, Azure Data Bricks
-- Nov 2023- Got into Microsoft Power Up program through which Iam learning Power Platform : Power Apps, Power Automate
-- Advanced DAX in Power BI on Udemy
+## 🌱 Things Iam practising
+- ETL/ELT data pipelines using Microsoft Azure Data Factory, Azure Data Bricks
+- Performance optimization of Data pipelines in Databricks and Azure DataFactory 
+- Advanced DAX in Power BI
 
 
 ## 📊 My GitHub Projects
