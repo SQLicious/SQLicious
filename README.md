@@ -1,3 +1,14 @@
+<!-- ═══════════════════════════════════════════════════════════
+     GITHUB PROFILE README — Ruby (Roopmathi) Gunna
+     HOW TO USE:
+     1. Rename your GitHub account (Settings → Account → Change username)
+        Recommended handle: roopmathi
+     2. Create a NEW repo named exactly: roopmathi/roopmathi  (same as your username)
+     3. Add this file as README.md in that repo
+     4. Find & replace ALL instances of "roopmathi" with your actual new username
+     5. Create empty repos for the 3 projects so the links resolve (even just a README stub)
+     ═══════════════════════════════════════════════════════════ -->
+
 <!-- Profile View Counter — auto-updates every visit -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=roopmathi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
@@ -37,18 +48,51 @@ I'm now building **LLM pipelines, Agentic RAG systems, and AI-powered DataOps to
 
 ```python
 ruby = {
+    "shipped":            ["Agentic RAG Knowledge Assistant 🧠", "M&A Oracle (team capstone) 🏦"],
     "currently_building": ["CyberLens 🔵", "QueryForge 🟢", "PipelineGuardian 🟡"],
     "production_stack":   ["Databricks", "Delta Lake", "PySpark", "Azure", "Unity Catalog"],
-    "ai_stack":           ["Claude API", "LangGraph", "RAG", "MLflow", "ChromaDB"],
-    "domain_expertise":   ["Banking", "Cybersecurity", "Risk Technology", "Healthcare"],
+    "ai_stack":           ["Claude API", "LangGraph", "RAG", "MLflow", "ChromaDB", "RAGAS"],
+    "domain_expertise":   ["Banking", "Cybersecurity", "Risk Technology", "Healthcare", "M&A / PE"],
     "open_to":            ["Senior Data Engineer", "AI Platform Engineer", "ML Platform Engineer"],
 }
 ```
 
 <br/>
 
+<!-- ── LIVE PROJECTS ───────────────────────────────────────── -->
+## ✅ Shipped — Live AI Projects
+
+> Real systems. Real code. Running now.
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What It Does</th>
+      <th>Key Stack</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🧠 <a href="https://github.com/roopmathi/Agentic_RAG_Assignment_3">Claude Cert Knowledge Assistant</a></b></td>
+      <td>Domain-specific Agentic RAG system with a 3-tier adaptive execution model: Tier 0 (direct LLM), Tier 1 (single-source retrieval), Tier 2 (multi-hop decomposition across sources). Implements Corrective RAG with query rewriting, Self-RAG hallucination grading, semantic caching, and hierarchical parent-child chunking. RAGAS evaluation suite included.</td>
+      <td>LangGraph · LangChain · ChromaDB · OpenAI API · RAGAS · Brave Search · Pydantic</td>
+      <td>✅ Live</td>
+    </tr>
+    <tr>
+      <td><b>🏦 <a href="https://github.com/fnusatvik07/rag-architect-capstone">M&A Oracle</a></b> <i>(team capstone)</i></td>
+      <td>Enterprise RAG system for private equity due diligence — surfaces contradictions between management earnings calls and SEC filing footnotes. Integrates 7+ data sources (SEC EDGAR 10-K/10-Q, USPTO patents, earnings transcripts) via a Knowledge Graph, RAG Router, and multi-step agentic reasoning. Enterprise-grade observability, audit trails, and Slack notifications.</td>
+      <td>Knowledge Graph · RAG Router · SEC EDGAR · USPTO API · LangGraph · Agentic AI · Multimodal RAG</td>
+      <td>🔨 In Progress (Team)</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
 <!-- ── CURRENTLY BUILDING ──────────────────────────────────── -->
-## 🚧 Currently Building — AI Portfolio Projects
+## 🚧 Currently Building — Data + AI Platform Projects
 
 > Bridging 10 years of enterprise Data Engineering into the AI platform layer.
 > Each project applies production-grade patterns from real regulated environments — banking, cybersecurity, and healthcare.
@@ -65,24 +109,43 @@ ruby = {
   <tbody>
     <tr>
       <td><b>🔵 <a href="https://github.com/roopmathi/cyberlens-security-lakehouse">CyberLens</a></b></td>
-      <td>Security Data Lakehouse + Agentic RAG platform. Ingests multi-source security telemetry into a medallion architecture, then layers a LangGraph agent that answers natural language questions about enterprise security posture using Delta data + vector search.</td>
-      <td>Databricks · Delta Lake · LangGraph · Claude API · ChromaDB · FastAPI · MLflow</td>
-      <td>🔨 In Progress</td>
+      <td>Security Data Lakehouse + Agentic RAG platform. Ingests multi-source security telemetry into a Bronze/Silver/Gold medallion architecture, then layers a LangGraph agent that answers natural language questions about enterprise security posture by reasoning over both structured Delta data and unstructured threat intel.</td>
+      <td>Databricks · Delta Lake · LangGraph · Claude API · ChromaDB · FastAPI · MLflow · Docker</td>
+      <td>🔨 Building</td>
     </tr>
     <tr>
       <td><b>🟢 <a href="https://github.com/roopmathi/queryforge-llmops">QueryForge</a></b></td>
-      <td>Production-grade Text-to-SQL LLMOps platform — the open-source version of what Databricks Genie and Snowflake Cortex Analyst are commercializing. Features prompt versioning in MLflow, RAGAS evaluation CI/CD on every commit, query validation, and a user feedback loop.</td>
-      <td>Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Streamlit</td>
-      <td>🔨 In Progress</td>
+      <td>Production-grade Text-to-SQL LLMOps platform — the open-source version of what Databricks Genie and Snowflake Cortex Analyst are commercializing. Prompt versioning in MLflow, RAGAS evaluation CI/CD that fails builds on accuracy drops, SQL validation layer, and a user feedback loop for continuous improvement.</td>
+      <td>Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Streamlit · Databricks</td>
+      <td>🔨 Building</td>
     </tr>
     <tr>
       <td><b>🟡 <a href="https://github.com/roopmathi/pipeline-guardian">PipelineGuardian</a></b></td>
-      <td>Agentic DataOps monitor that detects pipeline anomalies (schema drift, volume drops, SLA breaches), generates LLM-powered root cause analysis via a LangGraph workflow, and auto-creates ServiceNow-compatible incident tickets with AI-written descriptions.</td>
-      <td>LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamlit</td>
-      <td>🔨 In Progress</td>
+      <td>Agentic DataOps monitor that detects pipeline anomalies (schema drift, volume drops, SLA breaches), gathers lineage context, generates LLM-powered root cause analysis via a 4-node LangGraph workflow, and auto-creates incident tickets with AI-written descriptions — turning hours of manual triage into 60-second automated resolution.</td>
+      <td>LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamlit · Databricks</td>
+      <td>🔨 Building</td>
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+<!-- ── PRODUCTION HIGHLIGHTS ──────────────────────────────── -->
+## 🏭 Built in Production
+
+> VP-level delivery across enterprise cybersecurity, banking risk, and healthcare data programs.
+
+| What I Built | Impact |
+|---|---|
+| 🔒 **Enterprise Cyber Data Warehouse** — Medallion Lakehouse consolidating endpoint, identity, cloud security, and ITSM telemetry | 30M+ records/day across Bronze/Silver/Gold |
+| 🏗️ **Metadata-Driven Master Controller ETL Framework** — YAML-config-driven orchestration adopted as the project's core architecture | Reduced manual effort ~80%, 100% repeatable |
+| ⚡ **High-Volume CDC Ingestion Pipeline** — Delta Live Tables + CDC for enterprise ITSM data | 30M+ records, scalable incremental loads |
+| 📊 **Semantic Metrics Layer** — Converted complex DAX/Power BI logic to Databricks Gold metric tables | ~40% report performance improvement |
+| 🔄 **Legacy Modernization** — Oracle stored procedures + quarterly reporting migrated to Databricks PySpark | 7 days → 6 hours runtime |
+| 🤖 **Text-to-SQL GenAI POC** — LLM-driven SQL query generation on regulated financial data | Enterprise POC on live banking schemas |
+| 🔐 **Unity Catalog Governance POC** — Fine-grained table access with governance tags + OIDC managed identities | Enterprise-grade Lakehouse security model |
+| 🔑 **PII Encryption Pipeline** — Fernet-based encryption with secret scopes and data-owner access controls | GDPR-compliant sensitive HR data handling |
+| 🏥 **Healthcare Data Platform** — ADF + Databricks pipelines unifying claims, eligibility, remittance across clinic systems | Multi-payer schema normalization at scale |
 
 <br/>
 
@@ -213,7 +276,7 @@ I'm actively exploring **Senior Data Engineering and AI Platform Engineering** r
 - 🌍 **Location:** New Jersey — open to remote & hybrid roles across the US
 - 📧 **Email:** roopmathi.gj@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/roopmathi](https://linkedin.com/in/roopmathi)
-- **Work Auth:** Canadian citizen · TN visa · processes at US border in 1 day · no USCIS wait · no lottery
+- 🇨🇦 **Work Auth:** Canadian citizen · TN visa · processes at US border in 1 day · no USCIS wait · no lottery
 
 <br/>
 
