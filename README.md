@@ -86,25 +86,6 @@ ruby = {
 
 <br/>
 
-<!-- ── PRODUCTION HIGHLIGHTS ──────────────────────────────── -->
-## 🏭 Built in Production
-
-> VP-level delivery across enterprise cybersecurity, banking risk, and healthcare data programs.
-
-| What I Built | Impact |
-|---|---|
-| 🔒 **Enterprise Cyber Data Warehouse** — Medallion Lakehouse consolidating endpoint, identity, cloud security, and ITSM telemetry | 30M+ records/day across Bronze/Silver/Gold |
-| 🏗️ **Metadata-Driven Master Controller ETL Framework** — YAML-config-driven orchestration adopted as the project's core architecture | Reduced manual effort ~80%, 100% repeatable |
-| ⚡ **High-Volume CDC Ingestion Pipeline** — Delta Live Tables + CDC for enterprise ITSM data | 30M+ records, scalable incremental loads |
-| 📊 **Semantic Metrics Layer** — Converted complex DAX/Power BI logic to Databricks Gold metric tables | ~40% report performance improvement |
-| 🔄 **Legacy Modernization** — Oracle stored procedures + quarterly reporting migrated to Databricks PySpark | 7 days → 6 hours runtime |
-| 🤖 **Text-to-SQL GenAI POC** — LLM-driven SQL query generation on regulated financial data | Enterprise POC on live banking schemas |
-| 🔐 **Unity Catalog Governance POC** — Fine-grained table access with governance tags + OIDC managed identities | Enterprise-grade Lakehouse security model |
-| 🔑 **PII Encryption Pipeline** — Fernet-based encryption with secret scopes and data-owner access controls | GDPR-compliant sensitive HR data handling |
-| 🏥 **Healthcare Data Platform** — ADF + Databricks pipelines unifying claims, eligibility, remittance across clinic systems | Multi-payer schema normalization at scale |
-
-<br/>
-
 <!-- ── TECH STACK ──────────────────────────────────────────── -->
 ## 🛠️ Tech Stack
 
