@@ -75,7 +75,7 @@ ruby = {
   </thead>
   <tbody>
     <tr>
-      <td><b>🧠 <a href="https://github.com/roopmathi/Agentic_RAG_Assignment_3">Claude Cert Knowledge Assistant</a></b></td>
+      <td><b>🧠 <a href="https://github.com/SQLicious/Agentic_RAG_Assignment_3.git">Claude Cert Knowledge Assistant</a></b></td>
       <td>Domain-specific Agentic RAG system with a 3-tier adaptive execution model: Tier 0 (direct LLM), Tier 1 (single-source retrieval), Tier 2 (multi-hop decomposition across sources). Implements Corrective RAG with query rewriting, Self-RAG hallucination grading, semantic caching, and hierarchical parent-child chunking. RAGAS evaluation suite included.</td>
       <td>LangGraph · LangChain · ChromaDB · OpenAI API · RAGAS · Brave Search · Pydantic</td>
       <td>✅ Live</td>
