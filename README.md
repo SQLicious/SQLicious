@@ -1,14 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB PROFILE README — Ruby (Roopmathi) Gunna
-     HOW TO USE:
-     1. Rename your GitHub account (Settings → Account → Change username)
-        Recommended handle: roopmathi
-     2. Create a NEW repo named exactly: roopmathi/roopmathi  (same as your username)
-     3. Add this file as README.md in that repo
-     4. Find & replace ALL instances of "roopmathi" with your actual new username
-     5. Create empty repos for the 3 projects so the links resolve (even just a README stub)
-     ═══════════════════════════════════════════════════════════ -->
-
 <!-- Profile View Counter — auto-updates every visit -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=roopmathi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
@@ -29,8 +18,8 @@
   <a href="mailto:roopmathi.gj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TN%20Visa%20%7C%20Canadian%20Citizen-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=for-the-badge&logoColor=white" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%A6%20TN%20Visa%20%7C%20Canadian%20Citizen-555555?style=for-the-badge" alt="TN Visa"/>
 </p>
 
 <br/>
@@ -38,13 +27,13 @@
 <!-- ── ABOUT ──────────────────────────────────────────────── -->
 ## 👩‍💻 About Me
 
-I'm a **Senior Data Engineer (VP-level)** with **10+ years** building production-grade, regulated data platforms — and I'm now extending that foundation into **AI platform engineering**.
+I'm a **Senior Data Engineer (VP-level)** with **10+ years** building production-grade data platforms across **banking, cybersecurity, risk technology, and healthcare** — and I'm now extending that foundation into **AI platform engineering**.
 
 Most AI systems fail because the data layer is broken. I build both.
 
-At **SMBC (Sumitomo Mitsui Banking Corporation)**, I led the Cyber Data Warehouse program on Azure Databricks — processing **30M+ records daily** from CrowdStrike, Wiz.io, Proofpoint, CyberArk, and ServiceNow across a full Bronze/Silver/Gold medallion architecture. I designed the metadata-driven ETL framework that became the project's core architecture, established Unity Catalog governance with fine-grained access controls, and built CI/CD foundations using GitHub Actions + Databricks Asset Bundles.
+I've led enterprise Lakehouse programs at Tier-1 financial institutions, processing **30M+ records daily** across full Bronze/Silver/Gold medallion architectures with real security tooling data. I design the metadata-driven frameworks, governance layers, and CI/CD foundations that teams actually adopt — not just POCs that get shelved.
 
-I'm now building **LLM pipelines, Agentic RAG systems, and AI-powered DataOps tools** on top of that same governed data infrastructure — bridging the gap between enterprise data platforms and the AI workloads that run on them.
+I'm now building **LLM pipelines, Agentic RAG systems, and AI-powered DataOps tools** on top of the same governed data infrastructure I've spent a decade perfecting — bridging the gap between enterprise data platforms and the AI workloads companies are rushing to deploy.
 
 ```python
 ruby = {
@@ -62,7 +51,7 @@ ruby = {
 ## 🚧 Currently Building — AI Portfolio Projects
 
 > Bridging 10 years of enterprise Data Engineering into the AI platform layer.
-> Each project is built on the same architectural patterns I ran in production at SMBC.
+> Each project applies production-grade patterns from real regulated environments — banking, cybersecurity, and healthcare.
 
 <table>
   <thead>
@@ -96,6 +85,23 @@ ruby = {
 </table>
 
 <br/>
+
+<!-- ── PRODUCTION HIGHLIGHTS ──────────────────────────────── -->
+## 🏭 Built in Production
+
+> VP-level delivery across enterprise cybersecurity, banking risk, and healthcare data programs.
+
+| What I Built | Impact |
+|---|---|
+| 🔒 **Enterprise Cyber Data Warehouse** — Medallion Lakehouse consolidating endpoint, identity, cloud security, and ITSM telemetry | 30M+ records/day across Bronze/Silver/Gold |
+| 🏗️ **Metadata-Driven Master Controller ETL Framework** — YAML-config-driven orchestration adopted as the project's core architecture | Reduced manual effort ~80%, 100% repeatable |
+| ⚡ **High-Volume CDC Ingestion Pipeline** — Delta Live Tables + CDC for enterprise ITSM data | 30M+ records, scalable incremental loads |
+| 📊 **Semantic Metrics Layer** — Converted complex DAX/Power BI logic to Databricks Gold metric tables | ~40% report performance improvement |
+| 🔄 **Legacy Modernization** — Oracle stored procedures + quarterly reporting migrated to Databricks PySpark | 7 days → 6 hours runtime |
+| 🤖 **Text-to-SQL GenAI POC** — LLM-driven SQL query generation on regulated financial data | Enterprise POC on live banking schemas |
+| 🔐 **Unity Catalog Governance POC** — Fine-grained table access with governance tags + OIDC managed identities | Enterprise-grade Lakehouse security model |
+| 🔑 **PII Encryption Pipeline** — Fernet-based encryption with secret scopes and data-owner access controls | GDPR-compliant sensitive HR data handling |
+| 🏥 **Healthcare Data Platform** — ADF + Databricks pipelines unifying claims, eligibility, remittance across clinic systems | Multi-payer schema normalization at scale |
 
 <br/>
 
@@ -181,17 +187,28 @@ ruby = {
 
 <br/>
 
-<!-- ── GITHUB STATS ────────────────────────────────────────── -->
-## 📊 GitHub Stats
+<!-- ── ACTIVITY ─────────────────────────────────────────────── -->
+## 📡 Right Now — April 2026
 
+> This is a live job search sprint. I'm building in public.
+
+| | |
+|---|---|
+| 🔨 **Active Build** | CyberLens · QueryForge · PipelineGuardian — all three in parallel |
+| 📚 **Active Learning** | Databricks Mosaic AI · Azure AI Foundry · RAG Architect Boot Camp (datasenseai.com) |
+| 🎓 **Certs in Progress** | Databricks Data Engineer Professional · Claude Code Architect Foundations |
+| 🌍 **Available** | Immediately · New Jersey / Remote / Hybrid |
+| 🤝 **Looking for** | Senior DE · AI Platform Engineer · ML Platform Engineer |
+
+<br/>
+
+<!-- Profile Views + Repo Count -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roopmathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://komarev.com/ghpvc/?username=roopmathi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopmathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=roopmathi&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Repos-Growing%20Weekly-FF3621?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PySpark%20%7C%20SQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Stack"/>
 </p>
 
 <br/>
@@ -215,7 +232,7 @@ I'm actively exploring **Senior Data Engineering and AI Platform Engineering** r
 - 🌍 **Location:** New Jersey — open to remote & hybrid roles across the US
 - 📧 **Email:** roopmathi.gj@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/roopmathi](https://linkedin.com/in/roopmathi)
-- 🇨🇦 **Work Auth:** Canadian citizen on TN visa — new TN processes at border in 1 day, no USCIS wait
+- 🇨🇦 **Work Auth:** Canadian citizen · TN visa · processes at US border in 1 day · no USCIS wait · no lottery
 
 <br/>
 
