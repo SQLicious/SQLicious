@@ -213,7 +213,7 @@ I'm actively exploring **Senior Data Engineering and AI Platform Engineering** r
 - 🌍 **Location:** New Jersey — open to remote & hybrid roles across the US
 - 📧 **Email:** roopmathi.gj@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/roopmathi](https://linkedin.com/in/roopmathi)
-- 🇨🇦 **Work Auth:** Canadian citizen · TN visa · processes at US border in 1 day · no USCIS wait · no lottery
+- **Work Auth:** Canadian citizen · TN visa · processes at US border in 1 day · no USCIS wait · no lottery
 
 <br/>
 
