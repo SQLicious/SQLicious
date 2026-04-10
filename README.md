@@ -65,6 +65,7 @@ LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamli
 </td>
 </tr>
 </table>
+
 ## Shipped Work
 
 ### [Agentic RAG Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
