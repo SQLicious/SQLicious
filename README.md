@@ -104,31 +104,39 @@ MLflow · RAGAS
 PostgreSQL · Oracle · SQL Server · Cosmos DB
 
 ---
-
 ## Certifications
 
-### Microsoft
-- Azure Data Engineer Associate (DP-203)
-- Azure Data Scientist Associate (DP-100)
-- Fabric Analytics Engineer Associate (DP-600)
-- Power BI Data Analyst Associate (PL-300)
-- Azure AI Fundamentals (AI-900)
-- Azure Data Fundamentals (DP-900)
-- Azure Fundamentals (AZ-900)
-
-### Databricks
-- Lakehouse Fundamentals
-- Building Single-Agent Apps on Databricks
-- GenAI App Deployment and Monitoring
-- Building Retrieval Agents on Databricks
-- Data Engineer Professional *(in progress)*
-
-### Anthropic
-- Claude Code 101
-- Claude Code Architect Foundations *(in progress)*
-- Building with the Claude API *(in progress)*
-- Introduction to Agent Skills *(in progress)*
-
+<table>
+  <tr>
+    <td align="center"><b>🔵 Microsoft</b></td>
+    <td align="center"><b>🟠 Databricks</b></td>
+    <td align="center"><b>🟤 Anthropic</b></td>
+  </tr>
+  <tr>
+    <td>
+      Azure Data Engineer Associate (DP-203)<br/>
+      Azure Data Scientist Associate (DP-100)<br/>
+      Fabric Analytics Engineer (DP-600)<br/>
+      Power BI Data Analyst (PL-300)<br/>
+      Azure AI Fundamentals (AI-900)<br/>
+      Azure Data Fundamentals (DP-900)<br/>
+      Azure Fundamentals (AZ-900)
+    </td>
+    <td>
+      Lakehouse Fundamentals<br/>
+      Building Single-Agent Apps on Databricks<br/>
+      GenAI App Deployment and Monitoring<br/>
+      Building Retrieval Agents on Databricks<br/>
+      Data Engineer Professional <i>(in progress)</i>
+    </td>
+    <td>
+      Claude Code 101<br/>
+      Claude Code Architect Foundations <i>(in progress)</i><br/>
+      Building with the Claude API <i>(in progress)</i><br/>
+      Introduction to Agent Skills <i>(in progress)</i>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Currently Deepening
