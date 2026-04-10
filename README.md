@@ -29,7 +29,6 @@ My work has focused on scalable lakehouse architectures, governed data pipelines
 <table>
 <tr>
 <td width="33%">
-
 ### CyberLens  
 Security data lakehouse + AI analysis platform  
 
@@ -41,7 +40,6 @@ Databricks · Delta Lake · LangGraph · Claude API · Chroma · FastAPI · MLfl
 </td>
 
 <td width="33%">
-
 ### QueryForge  
 Text-to-SQL platform with evaluation + feedback loops  
 
@@ -53,7 +51,6 @@ Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Stre
 </td>
 
 <td width="33%">
-
 ### PipelineGuardian  
 Data pipeline monitoring + anomaly detection  
 
