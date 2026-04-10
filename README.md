@@ -1,4 +1,4 @@
-<h1 align="center">Ruby (Roopmathi) Gunna</h1>
+<h1 align="center"> Roopmathi(Ruby) Gunna</h1>
 
 <p align="center">
   <strong>Senior Data Engineer → AI Platform Engineer</strong><br/>
