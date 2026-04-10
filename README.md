@@ -1,269 +1,155 @@
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB PROFILE README — Ruby (Roopmathi) Gunna
-     HOW TO USE:
-     1. Rename your GitHub account (Settings → Account → Change username)
-        Recommended handle: roopmathi
-     2. Create a NEW repo named exactly: roopmathi/roopmathi  (same as your username)
-     3. Add this file as README.md in that repo
-     4. Find & replace ALL instances of "roopmathi" with your actual new username
-     5. Create empty repos for the 3 projects so the links resolve (even just a README stub)
-     ═══════════════════════════════════════════════════════════ -->
-
-<!-- Profile View Counter — auto-updates every visit -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=roopmathi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
-
-<!-- ── HEADER ─────────────────────────────────────────────── -->
 <h1 align="center">Ruby (Roopmathi) Gunna</h1>
 
-<h3 align="center">
-  Senior Data Engineer &nbsp;→&nbsp; AI Platform Engineer<br/>
-  <sub>Databricks Lakehouse &nbsp;·&nbsp; Azure &nbsp;·&nbsp; LLM Pipelines &nbsp;·&nbsp; Agentic RAG &nbsp;·&nbsp; Banking & Cybersecurity</sub>
-</h3>
+<p align="center">
+  <strong>Senior Data Engineer → AI Platform Engineer</strong><br/>
+  Databricks Lakehouse · Azure · LLM Pipelines · Agentic RAG · Banking · Cybersecurity
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/roopmathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:roopmathi.gj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=for-the-badge&logoColor=white" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%A6%20TN%20Visa%20%7C%20Canadian%20Citizen-555555?style=for-the-badge" alt="TN Visa"/>
 </p>
 
-<br/>
+---
 
-<!-- ── ABOUT ──────────────────────────────────────────────── -->
-## 👩‍💻 About Me
+## About
 
-I'm a **Senior Data Engineer (VP-level)** with **10+ years** building production-grade data platforms across **banking, cybersecurity, risk technology, and healthcare** — and I'm now extending that foundation into **AI platform engineering**.
+I’m a Senior Data Engineer with 10+ years of experience building production-grade data platforms across banking, cybersecurity, risk technology, and healthcare.
 
-Most AI systems fail because the data layer is broken. I build both.
+My work has focused on scalable lakehouse architectures, governed data pipelines, metadata-driven frameworks, and platform reliability. I’m now extending that foundation into AI platform engineering by building LLM pipelines, retrieval systems, and agent-based workflows on top of strong data infrastructure.
 
-I've led enterprise Lakehouse programs at Tier-1 financial institutions, processing **30M+ records daily** across full Bronze/Silver/Gold medallion architectures with real security tooling data. I design the metadata-driven frameworks, governance layers, and CI/CD foundations that teams actually adopt — not just POCs that get shelved.
+**Most AI systems fail because the data layer is broken. I build both.**
 
-I'm now building **LLM pipelines, Agentic RAG systems, and AI-powered DataOps tools** on top of the same governed data infrastructure I've spent a decade perfecting — bridging the gap between enterprise data platforms and the AI workloads companies are rushing to deploy.
+---
 
-```python
-ruby = {
-    "shipped":            ["Agentic RAG Knowledge Assistant 🧠", "M&A Oracle (team capstone) 🏦"],
-    "currently_building": ["CyberLens 🔵", "QueryForge 🟢", "PipelineGuardian 🟡"],
-    "production_stack":   ["Databricks", "Delta Lake", "PySpark", "Azure", "Unity Catalog"],
-    "ai_stack":           ["Claude API", "LangGraph", "RAG", "MLflow", "ChromaDB", "RAGAS"],
-    "domain_expertise":   ["Banking", "Cybersecurity", "Risk Technology", "Healthcare", "M&A / PE"],
-    "open_to":            ["Senior Data Engineer", "AI Platform Engineer", "ML Platform Engineer"],
-}
-```
+## Featured Projects
 
-<br/>
+### [CyberLens](https://github.com/roopmathi/cyberlens-security-lakehouse)
+Security data lakehouse and AI analysis platform.  
+Ingests multi-source security telemetry into a medallion architecture and layers an agent workflow on top for natural-language investigation of enterprise security posture.
 
-<!-- ── LIVE PROJECTS ───────────────────────────────────────── -->
-## ✅ Shipped — Live AI Projects
+**Stack:** Databricks · Delta Lake · LangGraph · Claude API · Chroma · FastAPI · MLflow · Docker
 
-> Real systems. Real code. Running now.
+---
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What It Does</th>
-      <th>Key Stack</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🧠 <a href="https://github.com/SQLicious/Agentic_RAG_Assignment_3.git">Claude Cert Knowledge Assistant</a></b></td>
-      <td>Domain-specific Agentic RAG system with a 3-tier adaptive execution model: Tier 0 (direct LLM), Tier 1 (single-source retrieval), Tier 2 (multi-hop decomposition across sources). Implements Corrective RAG with query rewriting, Self-RAG hallucination grading, semantic caching, and hierarchical parent-child chunking. RAGAS evaluation suite included.</td>
-      <td>LangGraph · LangChain · ChromaDB · OpenAI API · RAGAS · Brave Search · Pydantic</td>
-      <td>✅ Live</td>
-    </tr>
-    <tr>
-      <td><b>🏦 <a href="https://github.com/fnusatvik07/rag-architect-capstone">M&A Oracle</a></b> <i>(team capstone)</i></td>
-      <td><b>[Shipping Apr 20, 2026]</b> Enterprise RAG system for private equity due diligence — surfaces contradictions between management earnings calls and SEC filing footnotes. Integrates 7+ data sources (SEC EDGAR 10-K/10-Q, USPTO patents, earnings transcripts) via a Knowledge Graph, RAG Router, and multi-step agentic reasoning. Enterprise-grade observability, audit trails, and Slack notifications.</td>
-      <td>Knowledge Graph · RAG Router · SEC EDGAR · USPTO API · LangGraph · Agentic AI · Multimodal RAG</td>
-      <td>🔨 Shipping Apr 20, 2026</td>
-    </tr>
-  </tbody>
-</table>
+### [QueryForge](https://github.com/roopmathi/queryforge-llmops)
+Text-to-SQL platform focused on reliability, evaluation, and continuous improvement.  
+Includes prompt versioning, SQL validation, automated evaluation, and user feedback loops.
 
-<br/>
+**Stack:** Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Streamlit · Databricks
 
-<!-- ── CURRENTLY BUILDING ──────────────────────────────────── -->
-## 🚧 Currently Building — Data + AI Platform Projects
+---
 
-> Bridging 10 years of enterprise Data Engineering into the AI platform layer.
-> Each project applies production-grade patterns from real regulated environments — banking, cybersecurity, and healthcare.
+### [PipelineGuardian](https://github.com/roopmathi/pipeline-guardian)
+DataOps monitoring system for pipeline anomaly detection and AI-assisted root cause analysis.  
+Designed to identify schema drift, volume drops, and SLA failures, then generate incident context and recommended actions.
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What It Does</th>
-      <th>Key Stack</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🔵 <a href="https://github.com/roopmathi/cyberlens-security-lakehouse">CyberLens</a></b></td>
-      <td>Security Data Lakehouse + Agentic RAG platform. Ingests multi-source security telemetry into a Bronze/Silver/Gold medallion architecture, then layers a LangGraph agent that answers natural language questions about enterprise security posture by reasoning over both structured Delta data and unstructured threat intel.</td>
-      <td>Databricks · Delta Lake · LangGraph · Claude API · ChromaDB · FastAPI · MLflow · Docker</td>
-      <td>🔨 Building</td>
-    </tr>
-    <tr>
-      <td><b>🟢 <a href="https://github.com/roopmathi/queryforge-llmops">QueryForge</a></b></td>
-      <td>Production-grade Text-to-SQL LLMOps platform — the open-source version of what Databricks Genie and Snowflake Cortex Analyst are commercializing. Prompt versioning in MLflow, RAGAS evaluation CI/CD that fails builds on accuracy drops, SQL validation layer, and a user feedback loop for continuous improvement.</td>
-      <td>Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Streamlit · Databricks</td>
-      <td>🔨 Building</td>
-    </tr>
-    <tr>
-      <td><b>🟡 <a href="https://github.com/roopmathi/pipeline-guardian">PipelineGuardian</a></b></td>
-      <td>Agentic DataOps monitor that detects pipeline anomalies (schema drift, volume drops, SLA breaches), gathers lineage context, generates LLM-powered root cause analysis via a 4-node LangGraph workflow, and auto-creates incident tickets with AI-written descriptions — turning hours of manual triage into 60-second automated resolution.</td>
-      <td>LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamlit · Databricks</td>
-      <td>🔨 Building</td>
-    </tr>
-  </tbody>
-</table>
+**Stack:** LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamlit · Databricks
 
-<br/>
+---
 
-<!-- ── TECH STACK ──────────────────────────────────────────── -->
-## 🛠️ Tech Stack
+## Shipped Work
 
-**Data Platforms & Engineering**
+### [Agentic RAG Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
+Domain-specific RAG system with adaptive retrieval and multi-step reasoning.  
+Includes query rewriting, corrective retrieval patterns, hallucination grading, semantic caching, and evaluation with RAGAS.
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Stack:** LangGraph · LangChain · Chroma · OpenAI API · RAGAS · Pydantic
 
-**AI & LLM Engineering**
+### [M&A Oracle](https://github.com/fnusatvik07/rag-architect-capstone)
+Enterprise RAG capstone for private equity due diligence.  
+Built to surface contradictions across earnings calls, SEC filings, and other research sources using multi-source retrieval and agentic reasoning.
 
-![Claude API](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![RAG](https://img.shields.io/badge/Agentic%20RAG-7B2FBE?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+**Stack:** Knowledge Graph · SEC EDGAR · USPTO API · LangGraph · Agentic AI · Multimodal RAG
 
-**Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+## Technical Focus
 
-**Cloud & DevOps**
+- Data platform architecture for analytics and AI workloads
+- Pipeline reliability, observability, and governance
+- Retrieval systems and agent-based application design
+- LLMOps, evaluation, and production readiness
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+---
 
-**Databases**
+## Tech Stack
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Data Platforms**  
+Databricks · Delta Lake · PySpark · Snowflake · Azure Data Factory · ADLS Gen2
 
-<br/>
+**Cloud & DevOps**  
+Azure · Docker · GitHub Actions · Azure DevOps · Azure Functions
 
-<!-- ── CERTIFICATIONS ──────────────────────────────────────── -->
-## 📜 Certifications
+**Languages**  
+Python · SQL · T-SQL · Spark SQL
 
-<table>
-  <tr>
-    <td align="center"><b>🔵 Microsoft</b></td>
-    <td align="center"><b>🟠 Databricks</b></td>
-    <td align="center"><b>🟤 Anthropic</b></td>
-  </tr>
-  <tr>
-    <td>
-      ✅ Azure Data Engineer Associate (DP-203)<br/>
-      ✅ Azure Data Scientist Associate (DP-100)<br/>
-      ✅ Fabric Analytics Engineer (DP-600)<br/>
-      ✅ Power BI Data Analyst (PL-300)<br/>
-      ✅ Azure AI Fundamentals (AI-900)<br/>
-      ✅ Azure Data Fundamentals (DP-900)<br/>
-      ✅ Azure Fundamentals (AZ-900)
-    </td>
-    <td>
-      ✅ Lakehouse Fundamentals<br/>
-      🔄 Data Engineer Professional <i>(May 2026)</i><br/>
-      ✅ Building Single-Agent Apps on Databricks<br/>
-      ✅ GenAI App Deployment & Monitoring<br/>
-      ✅ Building Retrieval Agents on Databricks
-    </td>
-    <td>
-      🔄 Claude Code Architect Foundations <i>(Apr 2026)</i><br/>
-      ✅ Claude Code 101<br/>
-      🔄 Building with the Claude API<br/>
-      🔄 Introduction to Agent Skills
-    </td>
-  </tr>
-</table>
+**Vector Databases**  
+Pinecone · Qdrant · Chroma
 
-<br/>
+**Agent Frameworks**  
+LangGraph · LangChain
 
-<!-- ── ACTIVITY ─────────────────────────────────────────────── -->
-## 📡 Right Now — April 2026
+**AI Developer Tools**  
+Claude Code · Codex · GitHub Copilot
 
-> This is a live job search sprint. I'm building in public.
+**LLMOps / Evaluation**  
+MLflow · RAGAS
 
-| | |
-|---|---|
-| 🔨 **Active Build** | CyberLens · QueryForge · PipelineGuardian — all three in parallel |
-| 📚 **Active Learning** | Databricks Mosaic AI · Azure AI Foundry · RAG Architect Boot Camp (datasenseai.com) |
-| 🎓 **Certs in Progress** | Databricks Data Engineer Professional · Claude Code Architect Foundations |
-| 🌍 **Available** | Immediately · New Jersey / Remote / Hybrid |
-| 🤝 **Looking for** | Senior DE · AI Platform Engineer · ML Platform Engineer |
+**Databases**  
+PostgreSQL · Oracle · SQL Server · Cosmos DB
 
-<br/>
+---
 
-<!-- Profile Views + Repo Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roopmathi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Repos-Growing%20Weekly-FF3621?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PySpark%20%7C%20SQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Stack"/>
-</p>
+## Certifications
 
-<br/>
+### Microsoft
+- Azure Data Engineer Associate (DP-203)
+- Azure Data Scientist Associate (DP-100)
+- Fabric Analytics Engineer Associate (DP-600)
+- Power BI Data Analyst Associate (PL-300)
+- Azure AI Fundamentals (AI-900)
+- Azure Data Fundamentals (DP-900)
+- Azure Fundamentals (AZ-900)
 
-<!-- ── WHAT I'M LEARNING ──────────────────────────────────── -->
-## 🌱 Currently Deepening
+### Databricks
+- Lakehouse Fundamentals
+- Building Single-Agent Apps on Databricks
+- GenAI App Deployment and Monitoring
+- Building Retrieval Agents on Databricks
+- Data Engineer Professional *(in progress)*
 
-- **Databricks Mosaic AI** — Vector Search, Model Serving, AI Gateway, Genie patterns
-- **LLMOps** — Prompt versioning, RAGAS evaluation, agent observability, cost tracking
-- **Azure AI Foundry** — Prompt Flow, Azure AI Search, multi-provider LLM abstraction
-- **Agentic System Design** — Multi-agent orchestration, tool use, context engineering, evaluation harnesses
-- **RAG Architect Boot Camp** — 8-week enterprise RAG solution builder (datasenseai.com)
+### Anthropic
+- Claude Code 101
+- Claude Code Architect Foundations *(in progress)*
+- Building with the Claude API *(in progress)*
+- Introduction to Agent Skills *(in progress)*
 
-<br/>
+---
 
-<!-- ── CONNECT ─────────────────────────────────────────────── -->
-## 📫 Let's Connect
+## Currently Deepening
 
-I'm actively exploring **Senior Data Engineering and AI Platform Engineering** roles where I can bridge enterprise data platforms with production AI workloads.
+- Databricks Mosaic AI
+- Azure AI Foundry
+- LLMOps and evaluation frameworks
+- Agentic system design
+- Enterprise RAG architecture
 
-- 🌍 **Location:** New Jersey — open to remote & hybrid roles across the US
-- 📧 **Email:** roopmathi.gj@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/roopmathi](https://linkedin.com/in/roopmathi)
-- 🇨🇦 **Work Auth:** Canadian citizen · TN visa · processes at US border in 1 day · no USCIS wait · no lottery
+---
 
-<br/>
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/roopmathi](https://linkedin.com/in/roopmathi)
+- **Email:** roopmathi.gj@gmail.com
+- **Location:** New Jersey
+- **Work Authorization:** Canadian citizen eligible for TN visa sponsorship pathway
 
 ---
 
 <p align="center">
-  <i>"Most AI systems fail because of the data layer. I build both."</i><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=roopmathi&color=0e75b6&style=flat-square&label=visitors"/>
+  <em>Most AI systems fail because the data layer is broken. I build both.</em>
 </p>
