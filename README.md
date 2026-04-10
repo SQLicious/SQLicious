@@ -140,7 +140,7 @@ PostgreSQL · Oracle · SQL Server · Cosmos DB
 
 ---
 
-## Currently Deepening
+## Currently Deepening Knowledge on
 
 - Databricks Mosaic AI
 - Azure AI Foundry
