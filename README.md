@@ -60,7 +60,7 @@ Enterprise RAG capstone for private equity due diligence. Built to surface contr
 
 **Stack:** Knowledge Graph · SEC EDGAR · USPTO API · LangGraph · Agentic AI · Multimodal RAG
 
-### [Agentic RAG Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
+### [Agentic RAG Claude Code Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
 Domain-specific RAG system with adaptive retrieval and multi-step reasoning. Includes query rewriting, corrective retrieval patterns, hallucination grading, semantic caching, and evaluation with RAGAS.
 
 **Stack:** LangGraph · LangChain · Chroma · OpenAI API · RAGAS · Pydantic
