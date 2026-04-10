@@ -24,34 +24,47 @@ My work has focused on scalable lakehouse architectures, governed data pipelines
 
 **Most AI systems fail because the data layer is broken. I build both.**
 
----
-
 ## Featured Projects
 
-### [CyberLens](https://github.com/roopmathi/cyberlens-security-lakehouse)
-Security data lakehouse and AI analysis platform.  
-Ingests multi-source security telemetry into a medallion architecture and layers an agent workflow on top for natural-language investigation of enterprise security posture.
+<table>
+<tr>
+<td width="33%">
 
-**Stack:** Databricks · Delta Lake · LangGraph · Claude API · Chroma · FastAPI · MLflow · Docker
+### CyberLens  
+Security data lakehouse + AI analysis platform  
 
----
+Ingests multi-source security telemetry into a medallion architecture and enables natural-language investigation.
 
-### [QueryForge](https://github.com/roopmathi/queryforge-llmops)
-Text-to-SQL platform focused on reliability, evaluation, and continuous improvement.  
-Includes prompt versioning, SQL validation, automated evaluation, and user feedback loops.
+**Stack:**  
+Databricks · Delta Lake · LangGraph · Claude API · Chroma · FastAPI · MLflow · Docker
 
-**Stack:** Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Streamlit · Databricks
+</td>
 
----
+<td width="33%">
 
-### [PipelineGuardian](https://github.com/roopmathi/pipeline-guardian)
-DataOps monitoring system for pipeline anomaly detection and AI-assisted root cause analysis.  
-Designed to identify schema drift, volume drops, and SLA failures, then generate incident context and recommended actions.
+### QueryForge  
+Text-to-SQL platform with evaluation + feedback loops  
 
-**Stack:** LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamlit · Databricks
+Includes prompt versioning, SQL validation, and automated accuracy checks.
 
----
+**Stack:**  
+Claude API · MLflow · RAGAS · FastAPI · PostgreSQL · GitHub Actions · Streamlit · Databricks
 
+</td>
+
+<td width="33%">
+
+### PipelineGuardian  
+Data pipeline monitoring + anomaly detection  
+
+Detects schema drift, volume drops, SLA issues, and generates root cause analysis.
+
+**Stack:**  
+LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamlit · Databricks
+
+</td>
+</tr>
+</table>
 ## Shipped Work
 
 ### [Agentic RAG Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
