@@ -29,6 +29,7 @@ My work has focused on scalable lakehouse architectures, governed data pipelines
 <table>
 <tr>
 <td width="33%">
+
 ### CyberLens  
 Security data lakehouse + AI analysis platform  
 
@@ -40,6 +41,7 @@ Databricks · Delta Lake · LangGraph · Claude API · Chroma · FastAPI · MLfl
 </td>
 
 <td width="33%">
+  
 ### QueryForge  
 Text-to-SQL platform with evaluation + feedback loops  
 
@@ -63,13 +65,7 @@ LangGraph · Claude API · Delta Lake · Docker · FastAPI · MLflow · Streamli
 </tr>
 </table>
 
-## Shipped Work
-
-### [Agentic RAG Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
-Domain-specific RAG system with adaptive retrieval and multi-step reasoning.  
-Includes query rewriting, corrective retrieval patterns, hallucination grading, semantic caching, and evaluation with RAGAS.
-
-**Stack:** LangGraph · LangChain · Chroma · OpenAI API · RAGAS · Pydantic
+## Currently building 
 
 ### [M&A Oracle](https://github.com/fnusatvik07/rag-architect-capstone)
 Enterprise RAG capstone for private equity due diligence.  
@@ -77,6 +73,13 @@ Built to surface contradictions across earnings calls, SEC filings, and other re
 
 **Stack:** Knowledge Graph · SEC EDGAR · USPTO API · LangGraph · Agentic AI · Multimodal RAG
 
+## Shipped Work
+
+### [Agentic RAG Knowledge Assistant](https://github.com/SQLicious/Agentic_RAG_Assignment_3.git)
+Domain-specific RAG system with adaptive retrieval and multi-step reasoning.  
+Includes query rewriting, corrective retrieval patterns, hallucination grading, semantic caching, and evaluation with RAGAS.
+
+**Stack:** LangGraph · LangChain · Chroma · OpenAI API · RAGAS · Pydantic
 ---
 
 ## Technical Focus
