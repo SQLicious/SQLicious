@@ -131,9 +131,10 @@ PostgreSQL · Oracle · SQL Server · Cosmos DB
     </td>
     <td valign="top">
       Claude Code 101<br/>
+      Introduction to Agent Skills <i></i>
       Claude Code Architect Foundations <i>(in progress)</i><br/>
       Building with the Claude API <i>(in progress)</i><br/>
-      Introduction to Agent Skills <i>(in progress)</i>
+      
     </td>
   </tr>
 </table>
